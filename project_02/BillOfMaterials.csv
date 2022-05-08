@@ -1,0 +1,6 @@
+Component,Vendor,Item Number,Quantity,Description
+PocketBeagle,Beagleboard,--,1,Contains compute and storage units
+Screen,Adafruit,1480,1,"2.2"" TFT LCD"
+Pushbutton,Sparkfun,9190,7,Momentary pushbutton
+Potentiometer,Sparkfun,9288,4,Rotary Potentiometer - Linear (10kohm)
+Selector Switch,Synthrotek,SW-5POS,1,5 State Selector Switch
